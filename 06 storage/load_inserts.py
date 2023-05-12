@@ -16,7 +16,6 @@ TableName = 'CensusData'
 Datafile = "filedoesnotexist"  # name of the data file to be loaded
 CreateDB = False  # indicates whether the DB table should be (re)-created
 
-# csv = io.StringIO('./acs2015_census_tract_data_part1.csv')
 
 def row2vals(row):
 	for key in row:
@@ -66,7 +65,6 @@ def row2vals(row):
 
 	return ret
 
-
 def initialize():
   parser = argparse.ArgumentParser()
   parser.add_argument("-d", "--datafile", required=True)
@@ -77,7 +75,6 @@ def initialize():
   Datafile = args.datafile
   global CreateDB
   CreateDB = args.createtable
-
 
 # read the input data file into a list of row strings
 def readdata(fname):
@@ -90,7 +87,6 @@ def readdata(fname):
 			rowlist.append(row)
 
 	return rowlist
-	# return dr
 
 # convert list of data rows into list of SQL 'INSERT INTO ...' commands
 def getSQLcmnds(rowlist):
@@ -243,23 +239,13 @@ def copy_from_stringio(conn):
 	buffer.seek(0)
 
 	cursor = conn.cursor()
-	# try:
 	start = time.perf_counter()
 
 	cursor.copy_from(buffer, 'censusdata', sep=",")
-	
+
 	elapsed = time.perf_counter() - start
 	print(f'Finished Loading. Elapsed Time: {elapsed:0.4} seconds')
-        # conn.commit()
-    # except (Exception, psycopg2.DatabaseError) as error:
-        
-    #     print("Error: %s" % error)
-    #     conn.rollback()
-    #     cursor.close()
-    #     return 1
-    # print("copy_from_stringio() done")
-    # cursor.close()
-
+    
 def main():
 	initialize()
 	conn = dbconnect()
@@ -270,10 +256,8 @@ def main():
 		createTable(conn)
 
 	# load(conn, cmdlist)
-	# csv.seek(0)
-	
-	# with conn.cursor() as cursor:
-	# 	cursor.copy_from(csv, 'censusdata', sep=",")
+
+	# Using copy_from for fastest loading: 
 	copy_from_stringio(conn)
 	conn.commit()
 
