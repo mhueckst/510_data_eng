@@ -1,0 +1,600 @@
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = jbernard     value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = eabara       value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = eabara       value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = jbernard     value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = eabara       value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = alarm clock 
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = eabara       value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = alarm clock 
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = alarm clock 
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = alarm clock 
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = eabara       value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = alarm clock 
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = alarm clock 
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = eabara       value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = alarm clock 
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = alarm clock 
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = jbernard     value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = jsmith       value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = jsmith       value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = jbernard     value = book        
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = eabara       value = book        
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = jbernard     value = gift card   
+Consumed event from topic archivetest: key = eabara       value = t-shirts    
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = jbernard     value = alarm clock 
+Consumed event from topic archivetest: key = eabara       value = gift card   
+Consumed event from topic archivetest: key = jbernard     value = batteries   
+Consumed event from topic archivetest: key = eabara       value = batteries   
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = alarm clock 
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = gift card   
+Consumed event from topic archivetest: key = awalther     value = book        
+Consumed event from topic archivetest: key = awalther     value = batteries   
+Consumed event from topic archivetest: key = awalther     value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = sgarcia      value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = gift card   
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = book        
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = t-shirts    
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = t-shirts    
+Consumed event from topic archivetest: key = jsmith       value = alarm clock 
+Consumed event from topic archivetest: key = jsmith       value = book        
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = book        
+Consumed event from topic archivetest: key = jsmith       value = t-shirts    
+Consumed event from topic archivetest: key = sgarcia      value = batteries   
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = batteries   
+Consumed event from topic archivetest: key = jsmith       value = batteries   
+Consumed event from topic archivetest: key = sgarcia      value = alarm clock 
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = htanaka      value = gift card   
+Consumed event from topic archivetest: key = sgarcia      value = gift card   

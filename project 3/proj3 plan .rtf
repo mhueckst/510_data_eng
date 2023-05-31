@@ -1,0 +1,59 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww13440\viewh10200\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf0 pipeline 1: \
+\
+api call for data -> json\
+produce -> consume -> .csv \
+transform + validate \
+load to postgres (2 tables) \
+\
+\
+Pipeline 2: \
+\
+\strike \strikec0 scrape site for data -> .csv \strike0\striked0 \
+produce, consume -> .csv \
+transform + validate csv \
+	transform needs to: modify the trip day column from W to weekday (sql table enum type)\
+				    check for and delete NaN rows \
+			          \
+load to postgres as new table (or as \'92trip\'92 table overwritten in load2postgres) \
+\
+-visuals via view \
+\
+1. select * from vis where trip = # and vis.latitude between 
+\f1\fs29\fsmilli14667 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 45.506022 and 45.516636 and vis.longitude 	between -122.711662 and -122.700316 \
+\
+~~2. select * from vis where direction == 0 and route_id = 65 and date between \'912021-01-13 16:00:00\'92 and \'912021-01-13 18:00:00\'92\
+ \
+\
+3. select * from vis where latitude like \'9245.51171297564056\'92 and longitude like \'91-122.68145021321773\'92 and date between \'912023-01-15 09:00:00\'92 and \'91
+\fs29\fsmilli14667 \outl0\strokewidth0 2023-01-15 11:00:00\'92\
+\
+3. select * from vis where latitude between \'9245.51171297564056\'92 and \'9245.507801048137324\'92 and longitude between \'91-122.68145021321773\'92 and \'91122.68013776684354\'92 date between \'912023-01-15 09:00:00\'92 and \'912023-01-15 11:00:00\'92\
+
+\fs29\fsmilli14667 \outl0\strokewidth0 \strokec2 \
+\
+4. select * from vis order by ??? \
+\
+5a. select * from vis where speed = (select max (speed) from vis);\
+\
+5b. select * from vis where latitude = (select max(latitude) from vis); \
+\
+5c. select * from vis where latitude like 45.46430716590116 and longitude -122.6653463668127
+\f0\fs28 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+\
+\
+\
+\
+\
+\
+leeks red onions eggplant broccoli zucchini + spices (pepper herbs de provence cayenne) + evoo\
++ stir fried chard with garlic and lemon\
++ fried tempeh  }
